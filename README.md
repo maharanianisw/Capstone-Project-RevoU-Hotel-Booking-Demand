@@ -20,9 +20,5 @@ Topik utama proyek ini adalah "How to reduce the order cancellation rate by 27.5
 
 <p>
 
-**Kontribusi**
-
-Sebagai anggota tim, peran saya adalah sebagai PIC dalam visualisasi data. Saya bertanggung jawab untuk menghasilkan visualisasi data yang informatif dan memperjelas hasil analisis yang telah dilakukan
-
 [Lihat Visualisasi](https://lookerstudio.google.com/reporting/bd7dc270-010e-453f-9493-523945bf0eed)
 
